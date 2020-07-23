@@ -1,0 +1,3 @@
+Features, that can be implemented to enhance this system:
+1) Move error-throwing from controllers to another storage of error. That will help us to reduce size of controllers and reuse general errors.
+2) Implement refresh-tokens system.
